@@ -1,4 +1,4 @@
-# FAIRSemantics
+# FAIR Semantics
 
 ## Introduction
 Welcome to the repository supporting the work carried out by the FAIRsFAIR FAIR Semantics Task. The goal of the Task 2.2 of the FAIRsFAIR project is to establish a set of recommendations and good practices for making semantic artefacts FAIR.
