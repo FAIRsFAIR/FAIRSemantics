@@ -20,8 +20,11 @@ Thanks for taking the time to contribute!
 Each specific issue/thread deals with a different reccomendation. 
 
 Isssues #29 - #58 = the UPDATED best practice reccomendations from D2.5. 
+
 Issues #28 - #44 = the UPDATED preliminary reccomendations from D2.5. 
+
 Issues #18 - #27 = the best practice reccomendations from D2.2. 
+
 Issues #1 - #17 = the preliminary reccomendations from D2.2. 
 
 Our goal is to gather consensus about each reccomendation in order to arrive at a set of commonly agreed (and adopted) reccomendations as part of an iteritive process. Please navigate through the issues and comment to give your opinion about the reccomendation(s) you believe need further work.  
