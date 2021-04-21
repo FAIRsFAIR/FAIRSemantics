@@ -19,7 +19,7 @@ Thanks for taking the time to contribute!
 
 Each specific issue/thread deals with a different reccomendation. 
 
-Isssues #29 - #58 = the UPDATED best practice reccomendations from D2.2. 
+Isssues #29 - #58 = the UPDATED best practice reccomendations from D2.5. 
 Issues #28 - #44 = the UPDATED preliminary reccomendations from D2.5. 
 Issues #18 - #27 = the best practice reccomendations from D2.2. 
 Issues #1 - #17 = the preliminary reccomendations from D2.2. 
