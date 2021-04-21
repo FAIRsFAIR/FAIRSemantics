@@ -10,6 +10,7 @@ Deliverable 2.5 is a complete, reviewed and improved version of D2.2.
 D2.5 supersedes D2.2.
 
 Link to full text D2.5 in ZENODO: https://doi.org/10.5281/zenodo.4314321 
+
 Link to full text D2.2. in ZENODO: https://doi.org/10.5281/zenodo.3707984
 
 The 3rd and final set of FAIR Semantics reccomendations is due to be published in Q1 2022. It will be a complete, reviewed and improved version of D2.2. and the last output for the FAIR Semantics team within the context of the FAIRsFAIR project. 
